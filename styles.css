@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+    background-color:#f8f9fa ;
+
+}
+h2{
+    background-color: aliceblue;
+    color: rgb(14, 170, 97);
+    padding: auto;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+.Relaxamento {
+    color: chocolate;
+}
+
+h3{
+    color:rgb(14, 170, 97);
+}
+.Logo{
+    width: auto;
+    margin-right: 20px;
+}
